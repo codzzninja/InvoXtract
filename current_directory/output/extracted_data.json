@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "invoice_number": "Invoice",
+    "invoice_date": "2025-05-30",
+    "po_number": "wer",
+    "seal_and_sign_present": true,
+    "no_items": 0
+  },
+  "table": []
+}

@@ -1,0 +1,48 @@
+{
+  "field_verification": {
+    "invoice_number": {
+      "confidence": 0.9,
+      "present": true
+    },
+    "invoice_date": {
+      "confidence": 0.9,
+      "present": true
+    },
+    "po_number": {
+      "confidence": 0.9,
+      "present": true
+    },
+    "seal_and_sign_present": {
+      "confidence": 0.9,
+      "present": true
+    },
+    "no_items": {
+      "confidence": 0.9,
+      "present": false
+    }
+  },
+  "line_items_verification": [],
+  "total_calculations_verification": {
+    "subtotal_check": {
+      "calculated_value": 0,
+      "extracted_value": 0,
+      "check_passed": true
+    },
+    "gst_check": {
+      "calculated_value": 0,
+      "extracted_value": 0,
+      "check_passed": true
+    },
+    "final_total_check": {
+      "calculated_value": 0,
+      "extracted_value": 0,
+      "check_passed": true
+    }
+  },
+  "summary": {
+    "all_fields_confident": true,
+    "all_line_items_verified": true,
+    "totals_verified": true,
+    "issues": []
+  }
+}
