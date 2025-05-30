@@ -1,0 +1,8 @@
+easyocr
+pytesseract
+pdf2image
+opencv-python
+pillow
+numpy
+pandas
+openpyxl
